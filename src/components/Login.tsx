@@ -33,8 +33,8 @@ const Login = () => {
 
 const styles = StyleSheet.create({
   container: {
-    justifyContent: "center", // centraliza vertical
-    alignItems: "center", // centraliza horizontal
+    justifyContent: "center",
+    alignItems: "center",
   },
   card: {
     width: "80%",
